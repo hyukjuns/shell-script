@@ -15,7 +15,7 @@
 1. Azure Functions 생성
     1. Function spec 
         - OS: Windows
-        - Runtime Stack: Powershell 7.2
+        - Runtime Stack: Powershell 7.4
         - Function(Trigger) 
             - Template: EventGridTrigger
             - Script: 'tagging_v2/run.ps1'
